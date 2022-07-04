@@ -1,0 +1,71 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.heading-words{
+    font-size: 50px;
+    font-weight: 900;
+}
+#myname{
+    color: orange;
+}
+#header-details{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    margin-top: 2%;
+}
+#header-details img{
+    width: 100%;
+}
+p{
+    color: gray;
+}
+#hire-me{
+    background-image: linear-gradient(45deg, lightsalmon, orange);
+    padding: 10px 25px;
+    border: 2px;
+    border-radius: 5px;
+}
+
+#hire-me-link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#header-main{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+#section-2{
+    height: 500px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#header-2{
+    width: 40%;
+    margin: 4%;
+    padding: 5px;
+    float: left;
+}
+#header-2 img{
+    width: 100%;
+}
+#dream{
+    font-size: 30px;
+    font-weight: bold;
+}
+.resume{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, lightsalmon, orange);
+    padding: 10px 25px;
+    border-radius: 5px;
+}
